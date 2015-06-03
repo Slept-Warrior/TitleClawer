@@ -1,0 +1,9 @@
+G:\C#\TitleClawer\TitleClawer\bin\Debug\TitleClawer.exe.config
+G:\C#\TitleClawer\TitleClawer\bin\Debug\TitleClawer.exe
+G:\C#\TitleClawer\TitleClawer\bin\Debug\TitleClawer.pdb
+G:\C#\TitleClawer\TitleClawer\obj\Debug\TitleClawer.csprojResolveAssemblyReference.cache
+G:\debug\TiClaw.exe.config
+G:\debug\TiClaw.exe
+G:\debug\TiClaw.pdb
+G:\C#\TitleClawer\TitleClawer\obj\Debug\TiClaw.exe
+G:\C#\TitleClawer\TitleClawer\obj\Debug\TiClaw.pdb
